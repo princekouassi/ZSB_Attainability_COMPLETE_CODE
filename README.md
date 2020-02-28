@@ -2,3 +2,5 @@
 
 Also, rememeber that when you run the code you have to put these files into a folder that ALSO contains a foler called "ZSB_results", where the data will be saved. 
 Otherwise, the results from the experiment won't be saved anywhere and you'll get these funny error msgs at the end of the task.
+
+These scripts are the psychopy python code for the experiment investigating effects of attainability on perceptions of ZS.
